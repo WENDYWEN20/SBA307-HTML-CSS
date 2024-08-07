@@ -4,9 +4,10 @@ section{
     align-items: center;
     justify-content: space-around;
     border-style: solid;
+    background-color:greenyellow
     }
 
-table{text-align:center; border: solid green;}
+table{text-align:left; border: solid green;}
 th{text-align: center;}
 td,th{border: 1px solid red; }
     

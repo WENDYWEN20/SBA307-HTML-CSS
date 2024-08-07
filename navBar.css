@@ -12,15 +12,19 @@ li a {display:block;
 color:white;
 text-align:center;
 padding:14px 16px;
-text-decoration:none;}
+text-decoration:none;} 
 li a:hover{background-color: #04AA6D;}
 #about{background-color: #2708b3;}
 #about:hover{background-color: #04AA6D;}
+.boxes:hover{width: 280px;
+    height:280px;
+}
 #box1{order: 1;
     background-color: blue;
     transition-property: background-color;
     transition-duration: 5s;
 }
+
 
 #box2{order:2;
     background-color: yellow;
